@@ -11,7 +11,7 @@
 
 ### APIs
 
-- form using react hook (register,trigger,formstate) forms and FormSubmit (free email submits). adding validations and errors using the same.
+- form using react hook (register,trigger,formstate) forms and FormSubmit by Devrolabs (free email submits). adding validations and errors using the same.
 - regex for email
 
 ### React
