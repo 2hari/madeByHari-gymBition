@@ -37,7 +37,7 @@ const Hari = () => {
       <div
         className={`fixed top-0 z-50 ${
           showSidebar ? "left-0" : "-left-96"
-        } h-screen w-9/12 bg-[#0e1111] shadow-2xl delay-150 duration-200 ease-out sm:w-72`}
+        } h-screen w-72 bg-[#0e1111] shadow-2xl delay-150 duration-200 ease-out max-xs:w-9/12`}
         ref={sidebarRef}
       >
         <nav role="admin" className="z-50 py-4">
